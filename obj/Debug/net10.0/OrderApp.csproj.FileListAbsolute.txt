@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\bin\Debug\net10.0\OrderApp.exe
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\bin\Debug\net10.0\OrderApp.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\bin\Debug\net10.0\OrderApp.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\bin\Debug\net10.0\OrderApp.dll
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\bin\Debug\net10.0\OrderApp.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\obj\Debug\net10.0\OrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\obj\Debug\net10.0\OrderApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\obj\Debug\net10.0\OrderApp.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\obj\Debug\net10.0\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\obj\Debug\net10.0\OrderApp.dll
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\obj\Debug\net10.0\refint\OrderApp.dll
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\obj\Debug\net10.0\OrderApp.pdb
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\obj\Debug\net10.0\OrderApp.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\WiproAssessments\OrderApp\obj\Debug\net10.0\ref\OrderApp.dll
